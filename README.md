@@ -1,5 +1,5 @@
 # Analytics Web App - Backend
-Django backend for analytics web app.
+Backend for analytics web app.
 
 ### Resources
 - [Docker Django](https://github.com/docker/awesome-compose/tree/master/official-documentation-samples/django/)
